@@ -13,6 +13,7 @@
 		4EC9BFAB2BE8CC9300C7A799 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EC9BFA92BE8CC9300C7A799 /* Main.storyboard */; };
 		4EC9BFAD2BE8CC9400C7A799 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EC9BFAC2BE8CC9400C7A799 /* Assets.xcassets */; };
 		4EC9BFB02BE8CC9400C7A799 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EC9BFAE2BE8CC9400C7A799 /* LaunchScreen.storyboard */; };
+		4EC9BFB82BE8CD2600C7A799 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4EC9BFB72BE8CD2600C7A799 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4EC9BFAC2BE8CC9400C7A799 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EC9BFAF2BE8CC9400C7A799 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EC9BFB12BE8CC9400C7A799 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EC9BFB72BE8CD2600C7A799 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		4EC9BFA22BE8CC9300C7A799 /* GitPractice */ = {
 			isa = PBXGroup;
 			children = (
+				4EC9BFB72BE8CD2600C7A799 /* .gitignore */,
 				4EC9BFA32BE8CC9300C7A799 /* AppDelegate.swift */,
 				4EC9BFA52BE8CC9300C7A799 /* SceneDelegate.swift */,
 				4EC9BFA72BE8CC9300C7A799 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EC9BFB82BE8CD2600C7A799 /* .gitignore in Resources */,
 				4EC9BFB02BE8CC9400C7A799 /* LaunchScreen.storyboard in Resources */,
 				4EC9BFAD2BE8CC9400C7A799 /* Assets.xcassets in Resources */,
 				4EC9BFAB2BE8CC9300C7A799 /* Main.storyboard in Resources */,
